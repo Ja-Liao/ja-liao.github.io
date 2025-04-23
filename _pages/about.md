@@ -17,7 +17,7 @@ Currently, I’m exploring career opportunities in both **software** and **hardw
 
 ## Education 🎓
 
-- **University of Toronto**, 2021–2025  
+- **University of Toronto**, 2020–2025  
   *Bachelor of Applied Science (BASc) in Engineering Science, Focus on Robotics and AI*  
   Expected Graduation: **May 2025**
 
