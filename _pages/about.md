@@ -23,7 +23,7 @@ Currently, I’m exploring career opportunities in both **software** and **hardw
 Expected Graduation: **May 2025**
 
 ## Projects 💡
-**Drone Project**, 2020–2025  
+**Drone Project**
 
 Performed Waypoint navigation, hovering and SLAM using Intel RealSense T265 Tracking Camera, Px4 Orange Cube and Nvidia Jetson Nano. 
 [Project Introduction Video](https://www.youtube.com/watch?v=6M8VXyCqgY8&list=PLL1IgvRDWMehXnWMgP0xM_mI04F4To4Td&index=1)
