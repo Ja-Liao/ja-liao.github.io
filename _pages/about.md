@@ -17,9 +17,10 @@ Currently, I’m exploring career opportunities in both **software** and **hardw
 
 ## Education 🎓
 ![UofT Logo](/images/uoft.png){: .align-left width="150px"}
-- **University of Toronto**, 2020–2025  
-  *Bachelor of Applied Science (BASc) in Engineering Science, Focus on Robotics and AI*  
-  Expected Graduation: **May 2025**
+**University of Toronto**, 2020–2025  
+
+*Bachelor of Applied Science (BASc) in Engineering Science, Focus on Robotics and AI*  
+Expected Graduation: **May 2025**
 
 ## Projects 💡
 Soon to be updated! 🚀
