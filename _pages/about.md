@@ -23,10 +23,12 @@ Currently, I’m exploring career opportunities in both **software** and **hardw
 Expected Graduation: **May 2025**
 
 ## Projects 💡
+![Suture Gif](/images/suture.gif){: .align-left width="150px"}
 **Haptic Force Feedback for dVRK Surgery Tool**🏥💉
 
 Experimented with various distance based haptic feedback on prevent tool collision with surrounding organs and improving accuracy on line trace and suturing tasks. 
 
+![Drone Gif](/images/drone.gif){: .align-left width="150px"}
 **Drone Project**🚁
 
 Performed Waypoint navigation, hovering and SLAM using Intel RealSense T265 Tracking Camera, Px4 Orange Cube and Nvidia Jetson Nano. 
