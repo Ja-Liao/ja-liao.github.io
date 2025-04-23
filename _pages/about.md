@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 4th-year undergraduate student at the **University of Toronto** studying **Robotics** and **AI**🤖. I’m expected to graduate in **May 2025** 🎓.
+I'm a 4th-year undergraduate student at the **University of Toronto** studying **Robotics**🤖 and **AI**. I’m expected to graduate in **May 2025** 🎓.
 
 My interests lie in **Robotics** and **Software**, with hands-on experience in developing and optimizing robotic systems 🛠. I’ve worked on projects involving **SLAM algorithms**, **ROS2**, **sensor integration**, and **robotic control systems**. My focus is on **real-time performance optimization** and **algorithm development** to ensure efficient, autonomous operation 🚗.
 
@@ -23,11 +23,21 @@ Currently, I’m exploring career opportunities in both **software** and **hardw
 Expected Graduation: **May 2025**
 
 ## Projects 💡
+**Haptic Force Feedback for dVRK Surgery Tool**
+
+Experimented with various distance based haptic feedback on prevent tool collision with surrounding organs and improving accuracy on line trace and suturing tasks. 
+
 **Drone Project**
 
 Performed Waypoint navigation, hovering and SLAM using Intel RealSense T265 Tracking Camera, Px4 Orange Cube and Nvidia Jetson Nano. 
 [Project Introduction Video](https://www.youtube.com/watch?v=6M8VXyCqgY8&list=PLL1IgvRDWMehXnWMgP0xM_mI04F4To4Td&index=1)
 
+**Kuka Path Planning and Obstacle Avoidance**
+
+Programmed a 6-axis robot in performing path following tasks with obstacle avoidance. Tasks including picking up and placing items by coordinate.
+
+**Turtlebot**
+Performed Wheel Odometry and Grid-based Mapping as welled as Lidar Mapping and Localization
 
 More to be updated soon! 🚀
 
