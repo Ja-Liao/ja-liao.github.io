@@ -23,25 +23,36 @@ Currently, I’m exploring career opportunities in both **software** and **hardw
 Expected Graduation: **May 2025**
 
 ## Projects 💡
-![Suture Gif](/images/suture.gif){: .align-left width="200px"}
-**Haptic Force Feedback for dVRK Surgery Tool**🏥💉
 
-Experimented with various distance based haptic feedback on prevent tool collision with surrounding organs and improving accuracy on line trace and suturing tasks. 
+<div style="display: flex; align-items: center; margin-bottom: 15px;">
+  <img src="/images/suture.gif" alt="Suture Gif" style="width: 200px; margin-right: 20px;">
+  <div>
+    **Haptic Force Feedback for dVRK Surgery Tool** 🏥💉  
+    Experimented with various distance-based haptic feedback to prevent tool collision with surrounding organs and improve accuracy on line trace and suturing tasks.
+  </div>
+</div>
 
+<div style="display: flex; align-items: center; margin-bottom: 15px;">
+  <img src="/images/drone.gif" alt="Drone Gif" style="width: 200px; margin-right: 20px;">
+  <div>
+    **Drone Project** 🚁  
+    Performed Waypoint navigation, hovering, and SLAM using Intel RealSense T265 Tracking Camera, Px4 Orange Cube, and Nvidia Jetson Nano.  
+    [Project Introduction Video](https://www.youtube.com/watch?v=6M8VXyCqgY8&list=PLL1IgvRDWMehXnWMgP0xM_mI04F4To4Td&index=1)
+  </div>
+</div>
 
-![Drone Gif](/images/drone.gif){: .align-left width="200px"}
-**Drone Project**🚁
+<div style="display: flex; align-items: center; margin-bottom: 15px;">
+  <img src="/images/kuka.gif" alt="Kuka Gif" style="width: 200px; margin-right: 20px;">
+  <div>
+    **Kuka Path Planning and Obstacle Avoidance** 🤖  
+    Programmed a 6-axis robot to perform path-following tasks with obstacle avoidance. Tasks included picking up and placing items by coordinate.
+  </div>
+</div>
 
-Performed Waypoint navigation, hovering and SLAM using Intel RealSense T265 Tracking Camera, Px4 Orange Cube and Nvidia Jetson Nano. 
-[Project Introduction Video](https://www.youtube.com/watch?v=6M8VXyCqgY8&list=PLL1IgvRDWMehXnWMgP0xM_mI04F4To4Td&index=1)
-
-![Kuka Gif](/images/kuka.gif){: .align-left width="200px"}
-**Kuka Path Planning and Obstacle Avoidance**🤖
-
-Programmed a 6-axis robot in performing path following tasks with obstacle avoidance. Tasks including picking up and placing items by coordinate.
-
-**Turtlebot**🐢
-Performed Wheel Odometry and Grid-based Mapping as welled as Lidar Mapping and Localization
+<div style="margin-bottom: 15px;">
+  **Turtlebot** 🐢  
+  Performed Wheel Odometry and Grid-based Mapping as well as Lidar Mapping and Localization.
+</div>
 
 More to be updated soon! 🚀
 
