@@ -16,7 +16,7 @@ I have also gained valuable experience during my internship at **AMD**, where I 
 Currently, I’m exploring career opportunities in both **software** and **hardware roles**, with a strong interest in **robotics**, **AI**, and **embedded systems** 🌐.
 
 ## Education 🎓
-
+![UofT Logo](/images/uoft.png){: .align-left width="1px"}
 - **University of Toronto**, 2020–2025  
   *Bachelor of Applied Science (BASc) in Engineering Science, Focus on Robotics and AI*  
   Expected Graduation: **May 2025**
