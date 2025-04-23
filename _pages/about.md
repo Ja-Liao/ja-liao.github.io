@@ -9,3 +9,7 @@ redirect_from:
 
 I'm a 4th year undergraduate student at the University of Toronto Studying Robotics. 
 
+My intersts are Robotics and Software!
+
+More to be coming on the webpage!
+
