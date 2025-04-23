@@ -23,9 +23,9 @@ Currently, I’m exploring career opportunities in both **software** and **hardw
 Expected Graduation: **May 2025**
 
 ## Projects 💡
-
-**Haptic Force Feedback for dVRK Surgery Tool**🏥💉
 ![Suture Gif](/images/suture.gif){: .align-left width="200px"}
+**Haptic Force Feedback for dVRK Surgery Tool**🏥💉
+
 Experimented with various distance based haptic feedback on prevent tool collision with surrounding organs and improving accuracy on line trace and suturing tasks. 
 
 
