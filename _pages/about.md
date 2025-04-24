@@ -38,7 +38,7 @@ Performed Waypoint navigation, hovering and SLAM using Intel RealSense T265 Trac
 Programmed a 6-axis robot in performing path following tasks with obstacle avoidance. Tasks including picking up and placing items by coordinate.
 &nbsp; 
 
-![Turtle Bot Map](/images/mapping.png){: .align-left width="150px"}
+![Turtle Bot Map](/images/mapping.png){: .align-left width="200px"}
 ### Turtlebot🐢
 Performed Wheel Odometry and Grid-based Mapping as welled as Lidar Mapping and Localization. The image shows a mapped real-life obstacle environment.
 
