@@ -37,13 +37,13 @@ Experimented with various distance based haptic feedback on prevent tool collisi
 Performed Waypoint navigation, hovering and SLAM using Intel RealSense T265 Tracking Camera, Px4 Orange Cube and Nvidia Jetson Nano. 
 [Project Introduction Video](https://www.youtube.com/watch?v=6M8VXyCqgY8&list=PLL1IgvRDWMehXnWMgP0xM_mI04F4To4Td&index=1)
 
-![Kuka Gif](/images/kuka.gif){: .align-left width="200px"}
+![Kuka Gif](/images/kuka.gif){: .align-left width="175px"}
 
 ### Kuka Path Planning and Obstacle Avoidance🤖
 
 Programmed a 6-axis robot in performing path following tasks with obstacle avoidance. Tasks including picking up and placing items by coordinate.
 
-![Turtle Bot Map](/images/mapping.png){: .align-left width="200px"}
+![Turtle Bot Map](/images/mapping.png){: .align-left width="225px"}
 
 ### Turtlebot🐢
 
