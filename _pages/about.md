@@ -34,7 +34,7 @@ Expected Graduation: **May 2025**
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/images/drone.gif" alt="Drone Gif" style="width: 200px; margin-right: 20px;">
+  <img src="/images/drone.gif" alt="Drone Gif" style="width: 225px; margin-right: 20px;">
   <div>
     <h3>Autonomous Drone Project 🚁</h3>
     <p>Performed Waypoint navigation, hovering, and SLAM using Intel RealSense T265 Tracking Camera, Px4 Orange Cube, and Nvidia Jetson Nano.</p>
@@ -53,7 +53,7 @@ Expected Graduation: **May 2025**
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/mapping.png" alt="Turtle Bot Map" style="width: 225px; margin-right: 20px;">
   <div>
-    <h3>Turtlebot 🐢  </h3>
+    <h3>Turtlebot 🐢 </h3>
     Performed Wheel Odometry and Grid-based Mapping as well as Lidar Mapping and Localization. The image shows a mapped real-life obstacle environment.
   </div>
 </div>
