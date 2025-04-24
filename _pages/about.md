@@ -36,7 +36,6 @@ Performed Waypoint navigation, hovering and SLAM using Intel RealSense T265 Trac
 ![Kuka Gif](/images/kuka.gif){: .align-left width="200px"}
 ### Kuka Path Planning and Obstacle Avoidance🤖
 Programmed a 6-axis robot in performing path following tasks with obstacle avoidance. Tasks including picking up and placing items by coordinate.
-&nbsp; 
 
 ![Turtle Bot Map](/images/mapping.png){: .align-left width="200px"}
 ### Turtlebot🐢
