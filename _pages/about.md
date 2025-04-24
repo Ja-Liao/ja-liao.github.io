@@ -49,5 +49,21 @@ Programmed a 6-axis robot in performing path following tasks with obstacle avoid
 
 Performed Wheel Odometry and Grid-based Mapping as welled as Lidar Mapping and Localization. The image shows a mapped real-life obstacle environment.
 
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/kuka.gif" alt="Kuka Gif" style="width: 175px; margin-right: 20px;">
+  <div>
+    ### Kuka Path Planning and Obstacle Avoidance 🤖  
+    Programmed a 6-axis robot in performing path-following tasks with obstacle avoidance. Tasks included picking up and placing items by coordinate.
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/mapping.png" alt="Turtle Bot Map" style="width: 225px; margin-right: 20px;">
+  <div>
+    ### Turtlebot 🐢  
+    Performed Wheel Odometry and Grid-based Mapping as well as Lidar Mapping and Localization. The image shows a mapped real-life obstacle environment.
+  </div>
+</div>
+
 More to be updated soon! 🚀
 
