@@ -50,6 +50,8 @@ Expected Graduation: **May 2025**
   </div>
 </div>
 
+<br>
+
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/mapping.png" alt="Turtle Bot Map" style="width: 225px; margin-right: 20px;">
   <div>
@@ -58,5 +60,5 @@ Expected Graduation: **May 2025**
   </div>
 </div>
 
-Thanks, More to be updated soon! 🚀
+Thanks, ore to be updated soon! 🚀
 
