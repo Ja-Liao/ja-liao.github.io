@@ -60,5 +60,5 @@ Expected Graduation: **May 2025**
   </div>
 </div>
 
-Thanks, ore to be updated soon! 🚀
+Thanks, more to be updated soon! 🚀
 
