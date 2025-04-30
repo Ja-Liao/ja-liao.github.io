@@ -28,8 +28,11 @@ Expected Graduation: **May 2025**
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/suture.gif" alt="Suture Gif" style="width: 200px; margin-right: 20px;">
   <div>
-    <h3>Haptic Force Feedback for dVRK Surgery Tool 🏥💉</h3>
+    <h3>Undergrad Thesis: Haptic Force Feedback for dVRK Surgery Tool 🏥💉</h3>
     <p>Experimented with various distance-based haptic feedback to prevent tool collision with surrounding organs and improve accuracy on line trace and suturing tasks.</p>
+    <a href="/files/Thesis_report.pdf" target="_blank" rel="noopener" style="font-size: 0.9em;"
+      > 📄 Thesis Report
+      </a>
   </div>
 </div>
 
