@@ -50,6 +50,8 @@ Expected Graduation: **May 2025**
   <div>
     <h3>Kuka Path Planning and Obstacle Avoidance 🤖</h3>
     Programmed a 6-axis robot in performing path-following tasks with obstacle avoidance. Tasks included picking up and placing items by coordinate.
+    <p><a href="https://github.com/Ja-Liao/KUKA-ARM-MATLAB" target="_blank">Project Code</a>
+    <a href="https://youtube.com/shorts/nA2OP6GHD7Y" target="_blank">KUKA Video</a>
   </div>
 </div>
 
