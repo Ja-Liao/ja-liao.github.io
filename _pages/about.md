@@ -32,7 +32,8 @@ Expected Graduation: **May 2025**
     <p>Experimented with various distance-based haptic feedback to prevent tool collision with surrounding organs and improve accuracy on line trace and suturing tasks.</p>
     <a href="/files/Thesis_report.pdf" target="_blank" rel="noopener" style="font-size: 0.9em;"
       > 📄 Thesis Report
-      </a>
+      </a><br>
+    <p><a href="https://github.com/Ja-Liao/KUKA-ARM-MATLAB" target="_blank">Force Generation and Plotting Code</a></p>
   </div>
 </div>
 
@@ -50,7 +51,7 @@ Expected Graduation: **May 2025**
   <div>
     <h3>Kuka Path Planning and Obstacle Avoidance 🤖</h3>
     Programmed a 6-axis robot in performing path-following tasks with obstacle avoidance. Tasks included picking up and placing items by coordinate.
-    <p><a href="https://github.com/Ja-Liao/KUKA-ARM-MATLAB" target="_blank">Project Code</a>
+    <p><a href="https://github.com/Ja-Liao/KUKA-ARM-MATLAB" target="_blank">Project Code</a><br>
     <a href="https://youtube.com/shorts/nA2OP6GHD7Y" target="_blank">KUKA Video</a></p>
   </div>
 </div>
@@ -62,7 +63,7 @@ Expected Graduation: **May 2025**
   <div>
     <h3>Turtlebot 🐢 </h3>
     Performed Wheel Odometry and Grid-based Mapping as well as Lidar Mapping and Localization. The image shows a mapped real-life obstacle environment.
-    <p><a href="https://github.com/Ja-Liao/TurtleBot-Project" target="_blank">Project Code</a>
+    <p><a href="https://github.com/Ja-Liao/TurtleBot-Project" target="_blank">Project Code</a><br>
     <a href="https://www.youtube.com/playlist?list=PLW3uXeYJk9XGE8seP7O2g66wnqhM2PZro" target="_blank">TurtleBot Videos</a>
     </p>
     
