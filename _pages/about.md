@@ -41,6 +41,7 @@ Expected Graduation: **May 2025**
     <h3>Autonomous Drone Project 🚁</h3>
     <p>Performed Waypoint navigation, hovering, and SLAM using Intel RealSense T265 Tracking Camera, Px4 Orange Cube, and Nvidia Jetson Nano.</p>
     <p><a href="https://www.youtube.com/watch?v=6M8VXyCqgY8&list=PLL1IgvRDWMehXnWMgP0xM_mI04F4To4Td&index=1" target="_blank">Project Introduction Video</a></p>
+    <p><a href="https://github.com/Ja-Liao/Drone_Capstone_Code" target="_blank">Project Code</a><br>
   </div>
 </div>
 
@@ -50,7 +51,7 @@ Expected Graduation: **May 2025**
     <h3>Kuka Path Planning and Obstacle Avoidance 🤖</h3>
     Programmed a 6-axis robot in performing path-following tasks with obstacle avoidance. Tasks included picking up and placing items by coordinate.
     <p><a href="https://github.com/Ja-Liao/KUKA-ARM-MATLAB" target="_blank">Project Code</a><br>
-    <a href="https://youtube.com/shorts/nA2OP6GHD7Y" target="_blank">KUKA Video</a></p>
+    <p><a href="https://youtube.com/shorts/nA2OP6GHD7Y" target="_blank">KUKA Video</a></p>
   </div>
 </div>
 
