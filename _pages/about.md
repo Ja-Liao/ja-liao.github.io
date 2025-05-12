@@ -40,8 +40,8 @@ Expected Graduation: **May 2025**
   <div>
     <h3>Autonomous Drone Project 🚁</h3>
     <p>Performed Waypoint navigation, hovering, and SLAM using Intel RealSense T265 Tracking Camera, Px4 Orange Cube, and Nvidia Jetson Nano.</p>
-    <p><a href="https://www.youtube.com/watch?v=6M8VXyCqgY8&list=PLL1IgvRDWMehXnWMgP0xM_mI04F4To4Td&index=1" target="_blank">Project Introduction Video</a></p>
-    <p><a href="https://github.com/Ja-Liao/Drone_Capstone_Code" target="_blank">Project Code</a><br>
+    <p><a href="https://www.youtube.com/watch?v=6M8VXyCqgY8&list=PLL1IgvRDWMehXnWMgP0xM_mI04F4To4Td&index=1" target="_blank">Project Introduction Video</a><br>
+    <a href="https://github.com/Ja-Liao/Drone_Capstone_Code" target="_blank">Project Code</a></p>
   </div>
 </div>
 
