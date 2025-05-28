@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello there, I'm Jiaheng! 👋"
+title: "Hello there, I'm Jacky! 👋"
 author_profile: true
 redirect_from: 
   - /about/
