@@ -31,7 +31,7 @@ Expected Graduation: **May 2025**
     <h3>Undergrad Thesis: Haptic Force Feedback for dVRK Surgery Tool 🏥💉</h3>
     <p>Experimented with various distance-based haptic feedback to prevent tool collision with surrounding organs and improve accuracy on line trace and suturing tasks.</p>
     <a href="/files/Thesis_report.pdf" target="_blank" rel="noopener" style="">Thesis Report</a><br>
-    <p><a href="https://github.com/Ja-Liao/KUKA-ARM-MATLAB" target="_blank">Force Generation and Plotting Code</a></p>
+    <p><a href="https://github.com/Ja-Liao/Undergrad-Thesis-Haptic-Force-Feedback-for-dVRK-Surgical-Tools" target="_blank">Force Generation and Plotting Code</a></p>
   </div>
 </div>
 
